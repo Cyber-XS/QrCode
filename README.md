@@ -38,4 +38,4 @@ Make sure qrencode is installed on your system.
 
     sudo apt install qrencode
 
-
+## ⚙️ Setup
