@@ -33,4 +33,9 @@ Make sure qrencode is installed on your system.
 **For Arch / Garuda:**
 
     sudo pacman -S qrencode
+**
+For Debian / Kali:**
+
+    sudo apt install qrencode
+
 
