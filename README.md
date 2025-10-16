@@ -45,7 +45,47 @@ Make sure qrencode is installed on your system.
     git clone https://github.com/Cyber-XS/QrCode.git
     cd QrCode
 
+**2. Make the script executable**
+
+    chmod +x qrcode.sh
+    
+**3. Run the tool**
+
+    ./qrcode.sh
 
 
+## 💡 Usage Examples
+
+**Generate QR from a URL**
+
+Enter input: https://example.com
+Detected URL.
+(ASCII QR displayed)
+✅ QR code saved as qrcode.png
+
+**Generate QR from a Command**
+
+Enter input: ls
+Detected command. Executing...
+qrcode.sh
+Generating QR from command output...
+(ASCII QR displayed)
+✅ QR code saved as qrcode.png
+
+**Generate QR from Text**
+
+Enter input: Hello Cyber XS
+Detected text:
+--------------------
+Hello Cyber XS
+--------------------
+(ASCII QR displayed)
+✅ QR code saved as qrcode.png
+
+## 🗂️ File Output
+
+All generated QR codes are saved as:
+
+**qrcode.png**
 
 
