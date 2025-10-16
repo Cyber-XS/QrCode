@@ -15,8 +15,8 @@ Perfect for quick sharing, encoding data, or experimenting with Bash automation.
 
 ## ⚙️ Features
 
-✅ Detects and handles URL / Command / Text automatically
-✅ Displays QR code directly in the terminal (ASCII mode)
+ ✅ Detects and handles URL / Command / Text automatically
+ ✅ Displays QR code directly in the terminal (ASCII mode)
 ✅ Saves a PNG QR code (qrcode.png)
 ✅ Executes Linux commands and generates QR from their output
 ✅ Works on Garuda, Arch, Debian, Ubuntu, and most Linux distros
