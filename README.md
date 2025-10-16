@@ -26,7 +26,7 @@ Perfect for quick sharing, encoding data, or experimenting with Bash automation.
 
 ✅ Works on Garuda, Arch, Debian, Ubuntu, and most Linux distros
 
-🧰 Requirements
+## 🧰 Requirements
 
 Make sure qrencode is installed on your system.
 
