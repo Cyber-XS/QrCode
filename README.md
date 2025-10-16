@@ -31,3 +31,6 @@ Perfect for quick sharing, encoding data, or experimenting with Bash automation.
 Make sure qrencode is installed on your system.
 
 **For Arch / Garuda:**
+
+    sudo pacman -S qrencode
+
