@@ -39,3 +39,13 @@ Make sure qrencode is installed on your system.
     sudo apt install qrencode
 
 ## ⚙️ Setup
+
+**1. Clone this repository**
+
+    git clone https://github.com/Cyber-XS/QrCode.git
+    cd QrCode
+
+
+
+
+
