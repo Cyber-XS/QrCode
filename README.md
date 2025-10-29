@@ -3,7 +3,7 @@ A fast and reliable tool that lets you create custom QR codes for any URL, text,
 
 ## 📺 Video Guide for Setup
 
-[![Watch on YouTube](https://img.youtube.com/vi/6tTPVkHpxRw/maxresdefault.jpg)](https://www.youtube.com/watch?v=6tTPVkHpxRw)
+[![Watch on YouTube](https://img.youtube.com/vi/aoVxGaLKkU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=aoVxGaLKkU4)
 
 # 🔳 QR Generator + Command Executor Tool
 
